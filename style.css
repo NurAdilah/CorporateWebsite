@@ -1,0 +1,61 @@
+h1 {
+font-family: serif;
+font-size: 35px;
+color: navy;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightcoral;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rosybrown;
+}
+
+html{
+background:url('images/bcg.jpeg') no-repeat center center fixed;
+background-size:cover;
+}
+
+h2 {
+font-family: arial;
+font-size: 40px;
+color: brown;
+}
+
+div {
+border: 1px solid #4CAF50;
+padding: 5px;
+font-family: arial;
+color: brown;
+font-size: 20px;
+}
+
+div {
+  border: 1px solid #4CAF50;
+  padding: 5px;
+}
+.clearfix {
+  overflow: auto;
+}
+
+.img1 {
+  float: right;
+  border: 2px;
+}
